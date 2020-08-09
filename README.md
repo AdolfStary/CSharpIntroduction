@@ -11,3 +11,4 @@ Completed 2C - Number of paint buckets for fence posts
 Completed 2D - Pythagoras
 Completed 2E - Random Password
 
+Completed 3A - Random number guessing
