@@ -9,3 +9,4 @@ Encountered bugs:
 Resources:
 http://www.asciitable.com/
 https://stackoverflow.com/questions/15249138/pick-random-char
+https://stackoverflow.com/questions/289792/int-to-char-in-c-sharp
