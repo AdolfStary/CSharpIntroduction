@@ -12,3 +12,4 @@ Completed 2D - Pythagoras
 Completed 2E - Random Password
 
 Completed 3A - Random number guessing
+Completed 3B - Odd or even
