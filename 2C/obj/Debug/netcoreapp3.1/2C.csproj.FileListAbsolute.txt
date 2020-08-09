@@ -1,0 +1,13 @@
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.exe
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.deps.json
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.runtimeconfig.json
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.runtimeconfig.dev.json
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.dll
+C:\Users\adolf\Documents\CSharpIntroduction\2C\bin\Debug\netcoreapp3.1\2C.pdb
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.csprojAssemblyReference.cache
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.AssemblyInfoInputs.cache
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.AssemblyInfo.cs
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.dll
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.pdb
+C:\Users\adolf\Documents\CSharpIntroduction\2C\obj\Debug\netcoreapp3.1\2C.genruntimeconfig.cache
