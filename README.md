@@ -13,3 +13,4 @@ Completed 2E - Random Password
 
 Completed 3A - Random number guessing
 Completed 3B - Odd or even
+Completed 3C - Perfect square

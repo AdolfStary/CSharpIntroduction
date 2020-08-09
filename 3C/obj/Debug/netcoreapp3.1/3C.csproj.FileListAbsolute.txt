@@ -1,0 +1,13 @@
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.exe
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.deps.json
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.runtimeconfig.json
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.runtimeconfig.dev.json
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.dll
+C:\Users\adolf\Documents\CSharpIntroduction\3C\bin\Debug\netcoreapp3.1\3C.pdb
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.csprojAssemblyReference.cache
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.AssemblyInfoInputs.cache
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.AssemblyInfo.cs
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.dll
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.pdb
+C:\Users\adolf\Documents\CSharpIntroduction\3C\obj\Debug\netcoreapp3.1\3C.genruntimeconfig.cache
